@@ -1,0 +1,45 @@
+{
+	"variables": [],
+	"info": {
+		"name": "APIWithService",
+		"_postman_id": "4c6ea974-7bbe-d7bb-706b-e932481abca5",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET Values",
+			"request": {
+				"url": "http://localhost:65387/api/names/",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "CREATE Values",
+			"request": {
+				"url": "http://localhost:65387/api/values",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Aruni\""
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4A3CC27F-5235-4F52-96EB-A88D6F021E0C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controllers/ValuesController.cs" Line="24" Column="31" />
+      <File FileName="Startup.cs" Line="22" Column="45" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.static__names__list__api__project PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

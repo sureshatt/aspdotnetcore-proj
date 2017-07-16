@@ -1,0 +1,102 @@
+{
+	"variables": [],
+	"info": {
+		"name": "StaticNamesListAPI",
+		"_postman_id": "966aba88-6876-3ac3-20a1-da7ad19b72d3",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "DELETE Name",
+			"request": {
+				"url": "http://localhost:65387/api/names/1",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "CREATE Name",
+			"request": {
+				"url": "http://localhost:65387/api/names",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"suresh\""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE Name",
+			"request": {
+				"url": "http://localhost:65387/api/names/2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Aruni\""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET Name",
+			"request": {
+				"url": "http://localhost:65387/api/names/2",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/plain",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"suresh\""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET Names",
+			"request": {
+				"url": "http://localhost:65387/api/names/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

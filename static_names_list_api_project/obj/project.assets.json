@@ -20821,10 +20821,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/suresh/Development/dotNet/aspdotnet/static_names_list_api_project/static_names_list_api_project.csproj",
+      "projectUniqueName": "/Users/suresh/Development/Git-Hub/My-GitHub-Projects/aspdotnetcore-proj/static_names_list_api_project/static_names_list_api_project.csproj",
       "projectName": "static_names_list_api_project",
-      "projectPath": "/Users/suresh/Development/dotNet/aspdotnet/static_names_list_api_project/static_names_list_api_project.csproj",
-      "outputPath": "/Users/suresh/Development/dotNet/aspdotnet/static_names_list_api_project/obj",
+      "projectPath": "/Users/suresh/Development/Git-Hub/My-GitHub-Projects/aspdotnetcore-proj/static_names_list_api_project/static_names_list_api_project.csproj",
+      "outputPath": "/Users/suresh/Development/Git-Hub/My-GitHub-Projects/aspdotnetcore-proj/static_names_list_api_project/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

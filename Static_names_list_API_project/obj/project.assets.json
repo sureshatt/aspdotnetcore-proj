@@ -20821,9 +20821,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/suresh/Development/dotNet/apiapp/my-first-api-proj/my-first-api-proj.csproj",
-      "projectName": "my-first-api-proj",
-      "projectPath": "/Users/suresh/Development/dotNet/apiapp/my-first-api-proj/my-first-api-proj.csproj",
+      "projectUniqueName": "/Users/suresh/Development/dotNet/apiapp/my-first-api-proj/Static_names_list_API_project.csproj",
+      "projectName": "Static_names_list_API_project",
+      "projectPath": "/Users/suresh/Development/dotNet/apiapp/my-first-api-proj/Static_names_list_API_project.csproj",
       "outputPath": "/Users/suresh/Development/dotNet/apiapp/my-first-api-proj/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
